@@ -1,2 +1,2 @@
 # testrelax
-<a title="open app" href="mailto:frank@wwdcdemo.example.com">open scheme</a>
+<a title="open app" href="namde://">open scheme</a>
